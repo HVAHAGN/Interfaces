@@ -11,7 +11,6 @@ namespace Interfaces_07
     interface Interface
 
     {
-
         void Method();
     }
 
