@@ -24,7 +24,7 @@ namespace Interfaces_08
 
         class ConcreteClass : IInterface1, IInterface2
         {
-            public void IInterface1.Method()
+            public void Method()
             {
                 Console.WriteLine("Method - interface IInterface implementation (1-2)");
             }
